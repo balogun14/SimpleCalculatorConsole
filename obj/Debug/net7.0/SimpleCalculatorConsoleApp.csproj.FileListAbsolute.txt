@@ -1,0 +1,14 @@
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/bin/Debug/net7.0/SimpleCalculatorConsoleApp
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/bin/Debug/net7.0/SimpleCalculatorConsoleApp.deps.json
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/bin/Debug/net7.0/SimpleCalculatorConsoleApp.runtimeconfig.json
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/bin/Debug/net7.0/SimpleCalculatorConsoleApp.dll
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/bin/Debug/net7.0/SimpleCalculatorConsoleApp.pdb
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/SimpleCalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/SimpleCalculatorConsoleApp.AssemblyInfoInputs.cache
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/SimpleCalculatorConsoleApp.AssemblyInfo.cs
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/SimpleCalculatorConsoleApp.csproj.CoreCompileInputs.cache
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/SimpleCalculatorConsoleApp.dll
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/refint/SimpleCalculatorConsoleApp.dll
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/SimpleCalculatorConsoleApp.pdb
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/SimpleCalculatorConsoleApp.genruntimeconfig.cache
+/home/awwal/Desktop/C#_Projects/SimpleCalculatorConsoleApp/obj/Debug/net7.0/ref/SimpleCalculatorConsoleApp.dll
